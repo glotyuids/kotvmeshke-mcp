@@ -1,0 +1,11 @@
+{
+  "name": "kotvmeshke-quiz-author",
+  "description": "Author and manage quiz packs on kotvmeshke.com through its MCP server. Bundles a skill that teaches the pack model, question-writing best practices and safe tool workflows, plus the MCP server connection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Quiz Online",
+    "url": "https://kotvmeshke.com"
+  },
+  "homepage": "https://kotvmeshke.com/docs/mcp",
+  "keywords": ["quiz", "trivia", "kotvmeshke", "mcp", "authoring"]
+}

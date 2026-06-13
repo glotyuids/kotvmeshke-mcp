@@ -1,0 +1,15 @@
+{
+  "name": "kotvmeshke",
+  "owner": {
+    "name": "Quiz Online",
+    "url": "https://kotvmeshke.com"
+  },
+  "plugins": [
+    {
+      "name": "kotvmeshke-quiz-author",
+      "source": "./plugins/kotvmeshke-quiz-author",
+      "description": "Build and manage kotvmeshke quiz packs from your AI assistant — bundles the authoring skill and the MCP server connection.",
+      "version": "1.0.0"
+    }
+  ]
+}

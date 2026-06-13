@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kotvmeshke": {
+      "type": "http",
+      "url": "https://api.kotvmeshke.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${KOTVMESHKE_MCP_TOKEN:-}"
+      }
+    }
+  }
+}
