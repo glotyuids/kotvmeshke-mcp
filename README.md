@@ -21,7 +21,7 @@ AI assistant. This plugin bundles two things:
 2. Add this marketplace and install the plugin:
 
    ```
-   /plugin marketplace add glotyuids/kotvmeshke-mcp
+   /plugin marketplace add glotyuids/claude-kotvmeshke-mcp
    /plugin install kotvmeshke-quiz-author@kotvmeshke
    ```
 
